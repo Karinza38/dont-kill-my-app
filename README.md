@@ -1,4 +1,4 @@
-# Android vendors, don't kill my app!
+ # Android vendors, don't kill my app!
 
 ### [dontkillmyapp.com](https://dontkillmyapp.com)
 
